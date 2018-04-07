@@ -1,0 +1,404 @@
+*{
+	padding:0;
+	margin: 0;
+}
+
+
+header{ 
+
+	background:  #FFFFFF;
+	color: #FFFFFF;
+	margin-top: 0.6em;
+	background-image: url("D:/Desktop/Sitio_Web/Sitio Web/img/logo_vertical.png"); 
+	background-repeat: no-repeat;
+	background-position:3%  ;
+	background-size: 130px;
+	margin-left: 0;
+
+
+	}
+
+	head
+	{
+		background:  #005883;
+
+
+	}
+
+h1#titulo {
+
+	text-align: center;
+	text-shadow:5px 5px 10px rgba(100, 100, 100, 0.9);
+	margin:0em;
+	color: #005883;
+	height: 150px;
+
+	
+
+}
+
+h1#titulob {
+
+	text-align: center;
+	text-shadow:5px 5px 10px rgba(100, 100, 100, 0.9);
+	margin:0em;
+	color: #005883;
+	margin-bottom: 20px;
+
+}
+
+h1#titulos {
+
+	font-family: verdana;
+	text-align: center;
+	text-shadow:5px 5px 10px rgba(100, 100, 100, 0.9);
+	margin-top:0.6em;
+	color: #FFFFFF;
+	font-size: 4em;
+	background:#005883;
+	margin-bottom: 40px;
+	height: 100px;
+
+
+}
+
+h2#text{
+	text-align: left;
+	margin-left: 20px;
+	color: #000000;
+	margin-top: 20px;
+	font-size: 2em;
+
+
+	
+}
+h2#subtitulos{
+
+	text-align: left;
+	margin-left: 20px;
+	color: #000000;
+	margin-top: 20px;
+	font-size: 2em;
+
+
+}
+
+h2#algorit{
+
+	text-align: left;
+	margin-left: 20px;
+	color: #000000;
+	margin-top: 20px;
+	font-size: 3em;
+}
+
+h2#autor{
+
+	text-align: left;
+	margin-left: 50px;
+	color: #000000;
+	margin-top: 0px;
+	font-size: 1.5em;
+}
+
+h3#autor{
+
+	text-align: left;
+	margin-left: 50px;
+	color: #000000;
+	margin-bottom: 0.5em;
+	font-size: 1em;
+	margin-bottom: 1em;
+}
+
+
+p#index{
+	margin-top: 20px;
+	width:100%;
+	max-width:100%;
+	color:#000;
+	display:inline-block;
+	font-family: verdana;
+	font-size: 1.2em;
+ 
+}
+
+
+p#general{
+	font-family: verdana;
+	margin-top: 20px;
+	width:100%;
+	max-width:100%;
+	color:#000000;
+	display:inline-block;
+	margin-left: 20px;
+	margin-bottom: 20px;
+}
+
+p#poo{
+	display: inline-block;
+	
+}
+
+p#algoritm{
+
+	font-family: verdana;
+	margin-top: 20px;
+	width:50%;
+	max-width:50%;
+	color:#000000;
+	display:inline-block;
+	margin-left: 20px;
+	margin-bottom: 20px;
+	text-align: left;
+}
+	
+
+
+
+body{
+	background:  #005883;
+	margin-left: 3em;
+	margin-right: 3em;
+
+}
+
+nav{
+	
+
+	list-style:none;
+    float:left;
+    border: 1px dashed;
+    padding: 1%;
+    width:100%;
+    background:  #005883;
+    margin-top:1em;
+  	border: transparent;
+  	line-height: 1em;
+  	height: 40px;
+
+
+}
+
+ li#algoritmos {
+
+	list-style:none;
+ 	float:left;
+    margin-right:0px;
+    margin-left:0px;
+    margin-bottom:10px;
+   	background: #005883 ;
+    padding:5px;
+    color:  #FFFFFF;
+    text-decoration:none;
+	border:solid;
+	border-color: #000000;
+	border-width: 1px;
+
+ 	
+ 	}
+
+ li#POO { 	
+
+	list-style:none;
+	float:left;
+    margin-left:20px;
+    margin-right:0px;
+    margin-bottom:10px;
+   	background: #005883;
+    padding:5px;
+    border-radius: 0%;
+ 	color:  #005883;
+    text-decoration:none;
+    border:solid;
+	border-color: #000000;
+	border-width: 1px;
+
+
+
+ }
+
+ li#Clasespoo{
+
+	list-style:none;
+	float:left;
+    margin-left:20px;
+    margin-bottom:10px;
+   	background: #005883;
+    padding:5px;
+    border-radius: 0%;
+ 	color:  #FFFFFF;
+    text-decoration:none;
+	border:solid;
+	border-color: #000000;
+	border-width: 1px;
+
+ }
+
+ li#Bibliografia{
+
+	list-style:none;
+	float: left;
+    margin-left:10px;
+    margin-right: 100px;
+    margin-bottom:10px;
+    padding:5px;
+    border-radius: 0%;
+ 	color:  #FFFFFF;
+    text-decoration:none;
+    background: #004999;
+    border:solid;
+	border-color: #000000;
+	border-width: 1px;
+}
+
+section
+{
+	background-color: #FFFFFF;
+
+}
+
+
+ section#index
+ {
+ 	width: 100%;
+	background-color: #FFFFFF;
+	padding-bottom: 10px;
+	margin-bottom: 20px;
+
+ 	
+ 
+ }
+section#autor
+{
+	background-color: #FFFFFF;
+	margin-bottom: 20px;
+
+
+}	
+
+section#autor1
+{
+	background-color: #FFFFFF;
+	
+	
+
+}	
+
+	div#poo
+ {
+	
+	display: flex;
+	margin-top: 2em;
+	margin-bottom: 3em;
+
+ }
+ 	div#poo2
+ {
+	margin-left: 2em;
+	margin-right: 3em;
+	display: inline-block;
+	font-size: 2em;
+	margin-bottom: 2em;
+
+ }
+
+ 	div#pag1
+ {
+	
+	margin:2em;
+	display: flex;
+
+ }
+
+ div#cpoo
+ {
+	
+	display:flex;
+	width:90%;
+ 	height: 90%;
+
+ }
+
+ div#cpoo2
+ {
+	width: 50%;
+
+ }
+
+ div#algoritmos
+ {
+ 	height: 850px;
+
+ }
+
+
+ img#logica
+ 	{
+ 		width:30%;
+ 		height: 30%;
+		max-width:400px;
+		margin-left: 40px;
+		margin-right: 30px;
+		display:inline-block;
+ 	}
+
+ img#codigo
+ 	{
+ 		width:30%;
+ 		height: 30%;
+		max-width:400px;
+		margin-left: 40px;
+		margin-right: 40px;
+		display:inline-block;
+ 	}
+
+ 	img#clases
+ 	{
+ 		width:50%;
+ 		height: 50%;
+		max-width:400px;
+		margin-left: 80px;
+		margin-right: 40px;
+		display:inline-block;
+ 	}
+
+ 	img#algoritmo
+ 	{
+ 		width:50%;
+ 		height: 50%;
+		max-width:400px;
+		display:flex;
+		margin-right: 150px;
+		float:right;
+ 	}
+
+
+ 	div#contador
+{
+	
+	margin-right:0px; 
+	margin-left: 1000px;
+}	
+
+
+h4{
+ 	font-family: verdana;
+	margin-top: 20px;
+	width:100%;
+	max-width:100%;
+	color:#000000;
+	display:inline-block;
+	margin-left: 40px;
+
+}
+
+
+footer
+ 	{
+ 		color: #FFFFFF;
+ 		margin-top: 2em;
+ 		margin-right: 2em;
+
+	}
+
