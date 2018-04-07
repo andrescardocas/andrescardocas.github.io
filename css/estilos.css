@@ -176,6 +176,7 @@ nav{
   	border: transparent;
   	line-height: 1em;
   	height: 40px;
+  	color: #FFFFFF;
 
 
 }
@@ -189,13 +190,18 @@ nav{
     margin-bottom:10px;
    	background: #005883 ;
     padding:5px;
-    color:  #FFFFFF;
-    text-decoration:none;
 	border:solid;
 	border-color: #000000;
 	border-width: 1px;
 
  	
+ 	}
+
+ 	a#index{
+
+ 	color:  #FFFFFF;
+ 	text-decoration:none;
+
  	}
 
  li#POO { 	
@@ -208,15 +214,16 @@ nav{
    	background: #005883;
     padding:5px;
     border-radius: 0%;
- 	color:  #005883;
+ 	color: #FFFFFF;
     text-decoration:none;
     border:solid;
 	border-color: #000000;
 	border-width: 1px;
-
+	
 
 
  }
+
 
  li#Clasespoo{
 
@@ -234,6 +241,7 @@ nav{
 	border-width: 1px;
 
  }
+
 
  li#Bibliografia{
 
