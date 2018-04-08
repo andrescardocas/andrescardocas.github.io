@@ -6,13 +6,10 @@
 
 header{ 
 
-	background:  #FFFFFF;
+	background: #FFFFFF;
 	color: #FFFFFF;
 	margin-top: 0.6em;
-	background-image: url("D:/Desktop/Sitio_Web/Sitio Web/img/logo_vertical.png"); 
-	background-repeat: no-repeat;
-	background-position:3%  ;
-	background-size: 130px;
+	
 	margin-left: 0;
 
 
@@ -32,6 +29,10 @@ h1#titulo {
 	margin:0em;
 	color: #005883;
 	height: 150px;
+	background-image: url("D:/Desktop/Sitio_Web/Sitio Web/img/logo_vertical.png"); 
+	background-repeat: no-repeat;
+	background-position:3%  ;
+	background-size: 130px;
 
 	
 
@@ -336,7 +337,7 @@ section#autor1
 
  div#algoritmos
  {
- 	height: 850px;
+ 	height: 1000px;
 
  }
 
@@ -381,6 +382,17 @@ section#autor1
 		float:right;
  	}
 
+
+ 	iframe#video1{
+
+ 		margin-left: 30px;
+ 	}
+
+	iframe#video2{
+
+ 		margin-left: 30px;
+ 		margin-top: 40px;
+ 	}
 
  	div#contador
 {
