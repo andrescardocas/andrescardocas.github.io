@@ -112,6 +112,17 @@ h3#autor{
 	margin-bottom: 1em;
 }
 
+h3#actividades{
+
+	text-align: left;
+	margin-left: 20px;
+	color: #000000;
+	margin-bottom: 0.5em;
+	font-size: 1em;
+	margin-top: 0px;
+	margin-bottom: 10px;
+	margin-right: 40px;
+}
 
 p#index{
 	margin-top: 20px;
@@ -271,9 +282,27 @@ nav{
 	border-width: 1px;
 }
 
+li#index{
+
+	list-style:none;
+	float: right;
+    margin-left:0px;
+    margin-right: 0px;
+    margin-bottom:10px;
+    padding:5px;
+    border-radius: 0%;
+ 	color:  #FFFFFF;
+    text-decoration:none;
+    background: #004999;
+    border:solid;
+	border-color: #000000;
+	border-width: 1px;
+}
+
 section
 {
 	background-color: #FFFFFF;
+	margin-top: 100px;
 
 }
 
@@ -292,6 +321,7 @@ section#autor
 {
 	background-color: #FFFFFF;
 	margin-bottom: 20px;
+	margin-top: 0px;
 
 
 }	
@@ -299,10 +329,22 @@ section#autor
 section#autor1
 {
 	background-color: #FFFFFF;
+	height: 520px;
+	margin-top: 0px;
 	
 	
 
 }	
+
+
+section#actividades
+{
+	background-color: #FFFFFF;
+	margin-top: 0px;
+	
+
+}	
+
 
 	div#poo
  {
@@ -348,9 +390,17 @@ section#autor1
  div#algoritmos
  {
  	height: 1000px;
+ 	margin-top: 100px;
 
  }
 
+div#actividades
+ {
+ 	margin bottom: 20px;
+ 	margin-top: 100px;
+
+
+ }
 
  img#logica
  	{
@@ -412,6 +462,18 @@ section#autor1
  		margin-top: 40px;
  	}
 
+ 	iframe#logic{
+
+ 		margin-left: 180px;
+ 		margin-top: 20px;
+ 	}
+
+
+	iframe#actividades{
+
+ 		margin-left: 20px;
+ 		margin-top: 20px;
+ 	}
  	div#contador
 {
 	
