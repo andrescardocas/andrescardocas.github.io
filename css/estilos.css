@@ -246,6 +246,13 @@ nav{
 
  }
 
+ li#poo1 { 	
+
+	font-size: 30px;
+
+
+ }
+
 
  li#Clasespoo{
 
@@ -329,7 +336,7 @@ section#autor
 section#autor1
 {
 	background-color: #FFFFFF;
-	height: 520px;
+	height: 800px;
 	margin-top: 0px;
 	
 	
@@ -352,14 +359,22 @@ section#actividades
 	display: flex;
 	margin-top: 2em;
 	margin-bottom: 3em;
-
+	
  }
  	div#poo2
  {
 	margin-left: 2em;
 	margin-right: 3em;
 	display: inline-block;
-	font-size: 2em;
+	margin-bottom: 2em;
+
+ }
+
+ 	div#poo3
+ {
+	margin-left: 2em;
+	margin-right: 3em;
+	display: inline-block;
 	margin-bottom: 2em;
 
  }
@@ -414,12 +429,20 @@ div#actividades
 
  img#codigo
  	{
- 		width:30%;
- 		height: 30%;
-		max-width:400px;
+ 		margin-top: 50px;
+		max-width:500px;
 		margin-left: 40px;
 		margin-right: 40px;
 		display:inline-block;
+ 	}
+
+ img#codigo1
+ 	{
+ 		margin-top: 100px;
+		max-width:500px;
+		margin-left: 40px;
+		margin-right: 40px;
+		
  	}
 
  	img#clases
@@ -492,6 +515,8 @@ h4{
 	margin-left: 40px;
 
 }
+
+
 
 
 footer
